@@ -1,31 +1,15 @@
-# 🐚Powershell-Clipper
-A PowerShell implementation of a clipboard hijacker. This script is a builder. Just enter your addresses and choose where to save the file.
+# 🐚laravel_smtp_cracker
+LaraCracker reveals its legitimacy in producing powerful results for inbox delivery and boosting your SMTP performance.
 
-![Untitled](https://github.com/DyNaam1c/Powershell-Clipper/assets/133466254/0caa24c9-ba31-4d2a-921a-d3a0b1c64c05)
-
-# ✅Features
-. Random drop to temp or appdata.
-
-. Persistence via the registry.
-
-. Friendly builder.
-
-. Support of nine crypto addresses.
-
-. Self delete.
 
 # ❓How to use
-. Right click the file run with powershell.
+. Double click installer file to install required modules and auto setting .
 
-. Enter your crypto addresses.
+. Run LaraCracker file and follow instructions.
 
 . Select a location to save the file.
 
 # ❌Legal disclaimer
-I the creator assumes no responsibility for anyones actions taken as a result of this code.
+I the creator assumes no responsibility for anyones actions taken as a result of this program.
 
-# ☕️Buy me a coffee
-BTC: bc1q80jm6sqtaj9y7kcgtztydgq5z9pluzctxq92je
-
-ETH: 0x55E6C33173E4b39495670A581CBA59CeC8020599
 
